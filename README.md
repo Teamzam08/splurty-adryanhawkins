@@ -22,7 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# bootcamp_AdryanHawkins
-# bootcamp_AdryanHawkins
-# bootcamp_AdryanHawkins
-# bootcamp_AdryanHawkins
