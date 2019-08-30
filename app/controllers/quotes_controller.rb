@@ -1,5 +1,5 @@
 class QuotesController < ApplicationController
     def index
-      @uote = Quote.first
+      @quote = Quote.order("RANDOM()").first
     end
 end
